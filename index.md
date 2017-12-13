@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<title> Hello </title>
 
 <a href="https://www.flickr.com/photos/128980985@N05/" target="_blank">Check this shit out it's lit</a>
 
