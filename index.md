@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <a href="https://www.flickr.com/photos/128980985@N05/" target="_blank">Check this shit out it's lit</a>
-[Check this shit out it's lit](https://www.flickr.com/photos/128980985@N05/).
+
 
 There should be whitespace between paragraphs.
 
