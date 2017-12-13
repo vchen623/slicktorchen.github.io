@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
-<title>Hello</title>
-
+<head>
+  <title>Hello</title>
+</head>
 <a href="https://www.flickr.com/photos/128980985@N05/" target="_blank">Check this shit out it's lit</a>
 
 
