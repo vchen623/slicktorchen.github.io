@@ -1,6 +1,4 @@
----
-layout: default
----
+
 <head>
   <title>Hello</title>
 </head>
