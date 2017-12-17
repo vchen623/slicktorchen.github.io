@@ -6,6 +6,7 @@ layout: default
 </head>
 <a href="https://www.flickr.com/photos/128980985@N05/" target="_blank">Check this shit out it's lit</a>
 
+<img src="VIC_4770.jpg" alt="Sparkly stuff">
 
 There should be whitespace between paragraphs.
 
