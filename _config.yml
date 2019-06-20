@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Chen"
-  avatar           : "/images/seagull.jpg/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/seagull.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Materials Scientist with Interest in Modeling and Data Science"
   location         : "Rensselaer Polytechnic Institute"
   email            : "victor.chen623@gmail.com"
