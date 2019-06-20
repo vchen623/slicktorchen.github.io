@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /photography/
 title: "Photography"
 author_profile: true
